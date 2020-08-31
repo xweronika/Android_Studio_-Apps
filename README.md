@@ -8,3 +8,6 @@ MyApplication:
 ![xxxScreenshot_20200714_162837_com huawei android internal app](https://user-images.githubusercontent.com/44413511/91722880-32070300-eb9b-11ea-8fcc-bc4b00610ac3.jpg)
 
 
+Click:
+
+![xxxAdnotacja 2020-08-31 141700](https://user-images.githubusercontent.com/44413511/91723151-9f1a9880-eb9b-11ea-9639-21c70c597b9f.png)
