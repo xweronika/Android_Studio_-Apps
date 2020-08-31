@@ -1,2 +1,2 @@
-# Android_Studio_-Apps
+# Android_Studio_Apps
 Two apps bild in Android Studio.
