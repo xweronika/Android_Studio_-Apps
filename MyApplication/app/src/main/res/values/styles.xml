@@ -1,0 +1,37 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:background">@color/kolorZielony</item>
+        <item name="android:colorBackground">@color/kolorZielony</item>
+
+    </style>
+
+    <style name="Mojstyl" >
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:textColor">#07008E</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:colorBackground">#8CB1CD</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:background">@color/colorPrimary</item>
+    </style>
+
+    <style name="Mojstyl.kursywa">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/kolorZielony</item>
+        <item name="android:colorBackground">#5A635A</item>
+    </style>
+    <style name="Duzy" parent="Mojstyl">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+
+</resources>
